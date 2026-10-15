@@ -8,6 +8,7 @@
 
   home.packages = with pkgs; [
     cowsay
+    easyeffects
   ];
 
   programs.home-manager.enable = true;

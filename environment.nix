@@ -9,7 +9,7 @@
 	hyfetch
 	helix
 	vscode-fhs
-	firefox
+	vivaldi
 	godot-mono
 	dotnet-sdk
 	niri
