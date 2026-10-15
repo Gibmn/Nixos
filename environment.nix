@@ -8,11 +8,20 @@
 	fastfetch
 	hyfetch
 	helix
-	vscode
+	vscode-fhs
 	firefox
 	godot-mono
 	dotnet-sdk
 	niri
-	alacrity
+	kitty
+	zsh
+	noctalia
+	xwayland
+	xwayland-satellite
+	spotify
+	vesktop
+	];
+	fonts.packages = with pkgs; [
+		nerd-fonts.jetbrains-mono
 	];
 }
